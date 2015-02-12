@@ -13,6 +13,7 @@
 		<Item Name="Convert matlab to TDMS data.vi" Type="VI" URL="../Convert matlab to TDMS data.vi"/>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 		<Item Name="PQ_Windowed RMS.vi" Type="VI" URL="../PQ_Windowed RMS.vi"/>
+		<Item Name="preprocessing.vi" Type="VI" URL="../preprocessing.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="__closeStorageFromObject.vi" Type="VI" URL="/&lt;vilib&gt;/Platform/storage/Storage.llb/__closeStorageFromObject.vi"/>
