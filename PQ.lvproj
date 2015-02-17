@@ -12,7 +12,9 @@
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Convert matlab to TDMS data.vi" Type="VI" URL="../Convert matlab to TDMS data.vi"/>
 		<Item Name="daub4_DWT.vi" Type="VI" URL="../daub4_DWT.vi"/>
-		<Item Name="event_duration.vi" Type="VI" URL="../event_duration.vi"/>
+		<Item Name="del_trailing_zeros.vi" Type="VI" URL="../del_trailing_zeros.vi"/>
+		<Item Name="diffs.vi" Type="VI" URL="../diffs.vi"/>
+		<Item Name="event_indicies.vi" Type="VI" URL="../event_indicies.vi"/>
 		<Item Name="find_outliers.vi" Type="VI" URL="../find_outliers.vi"/>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 		<Item Name="PQ_Windowed RMS.vi" Type="VI" URL="../PQ_Windowed RMS.vi"/>
