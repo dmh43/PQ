@@ -15,10 +15,12 @@
 		<Item Name="del_trailing_zeros.vi" Type="VI" URL="../del_trailing_zeros.vi"/>
 		<Item Name="diffs.vi" Type="VI" URL="../diffs.vi"/>
 		<Item Name="event_indicies.vi" Type="VI" URL="../event_indicies.vi"/>
+		<Item Name="event_start_stop.vi" Type="VI" URL="../event_start_stop.vi"/>
 		<Item Name="find_outliers.vi" Type="VI" URL="../find_outliers.vi"/>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 		<Item Name="PQ_Windowed RMS.vi" Type="VI" URL="../PQ_Windowed RMS.vi"/>
 		<Item Name="preprocessing.vi" Type="VI" URL="../preprocessing.vi"/>
+		<Item Name="voltage_variation.vi" Type="VI" URL="../voltage_variation.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="__closeStorageFromObject.vi" Type="VI" URL="/&lt;vilib&gt;/Platform/storage/Storage.llb/__closeStorageFromObject.vi"/>
